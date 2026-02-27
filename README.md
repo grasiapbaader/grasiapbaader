@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Grasiella, tenho 20 anos e atualmente estou cursando Engenharia de Software na UNINTER. Sou apaixonada por tecnologia e estou em constante busca de aprimoramento dos meus conhecimentos.
+Me chamo Grasiella, tenho 20 anos e atualmente estou cursando Engenharia de Software. Sou apaixonada por tecnologia e estou em constante busca de aprimoramento dos meus conhecimentos.
 
 ---
 
