@@ -4,6 +4,8 @@
 
 Me chamo Grasiella, tenho 21 anos e atualmente estou cursando Engenharia de Software. Sou apaixonada por tecnologia e estou em constante busca de aprimoramento dos meus conhecimentos.
 
+## Meu portifólio: 🔗 https://grasiapbaader.github.io/portifolio_grasiella-baader/
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
